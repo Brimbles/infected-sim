@@ -1,0 +1,3 @@
+# infected
+
+an experiment using pygame, testing how I might spawn mobs (zombies?) and have them infect humans,which in turn become zombies and so on...
